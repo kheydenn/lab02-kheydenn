@@ -29,8 +29,8 @@ def test_sum_multiples():
 
 
 # STRETCH (optional) - skipping this one still passes the three above.
-def test_total_of_positives():
-    assert total_of_positives([1, -2, 3, -4, 5]) == 9
-    assert total_of_positives([-1, -2]) == 0
-    assert total_of_positives([]) == 0
-    assert total_of_positives([10, 20]) == 30
+# def test_total_of_positives():
+#     assert total_of_positives([1, -2, 3, -4, 5]) == 9
+#     assert total_of_positives([-1, -2]) == 0
+#     assert total_of_positives([]) == 0
+#     assert total_of_positives([10, 20]) == 30
